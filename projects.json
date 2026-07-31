@@ -1,0 +1,32 @@
+[
+  {
+    "id": "audio2gavatar",
+    "name": "Audio2GAvatar",
+    "url": "Audio2GAvatar/index.html",
+    "desc": "Audio-Driven Upper-Body 3D Gaussian Avatar Animation via Retrieval-Augmented Motion Generation",
+    "venue": "Under Review",
+    "authors": "Guanwen Feng, Yilin Zhang, Yunan Li, Chencai Wang, Qiguang Miao",
+    "video": "Audio2GAvatar/assets/videos/Video.mp4",
+    "poster": "Audio2GAvatar/assets/images/Overview of our method.png",
+    "links": {
+      "project": "Audio2GAvatar/index.html",
+      "paper": "#",
+      "code": "#"
+    }
+  },
+  {
+    "id": "motionprompt",
+    "name": "MotionPrompt",
+    "url": "MotionPrompt/index.html",
+    "desc": "Decoupled Text-Driven Motion Editing for Controllable Audio-Driven Talking Head Generation",
+    "venue": "Under Review",
+    "authors": "Guanwen Feng, Hanzheng Shi, Chencai Wang, Qiguang Miao",
+    "video": "MotionPrompt/static/videos/MediaSupplement.mp4",
+    "poster": "MotionPrompt/static/images/system_architecture.png",
+    "links": {
+      "project": "MotionPrompt/index.html",
+      "paper": "#",
+      "code": "#"
+    }
+  }
+]
